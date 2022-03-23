@@ -29,6 +29,9 @@ IMPORTANT: All of the URLs will provide the most recent stable version of the re
 | North Sami (se/sme)
 | https://pahkat.uit.no/main/download/speller-sme?platform=windows[URL]
 
+| South Sami (sma)
+| https://pahkat.uit.no/main/download/speller-sma?platform=windows[URL]
+
 |===
 
 
