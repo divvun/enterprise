@@ -26,8 +26,20 @@ IMPORTANT: All of the URLs will provide the most recent stable version of the re
 | Faroese (fo/fao)
 | https://pahkat.uit.no/main/download/speller-fao?platform=windows[URL]
 
+| Greenlandic (kl/kal)
+| https://pahkat.uit.no/main/download/speller-fao?platform=windows[URL]
+
+| Inari Sami (smn)
+| https://pahkat.uit.no/main/download/speller-smn?platform=windows[URL]
+
+| Lule Sami (smj)
+| https://pahkat.uit.no/main/download/speller-smj?platform=windows[URL]
+
 | North Sami (se/sme)
 | https://pahkat.uit.no/main/download/speller-sme?platform=windows[URL]
+
+| Skolt Sami (sms)
+| https://pahkat.uit.no/main/download/speller-sms?platform=windows[URL]
 
 | South Sami (sma)
 | https://pahkat.uit.no/main/download/speller-sma?platform=windows[URL]
