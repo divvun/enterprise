@@ -26,9 +26,6 @@ IMPORTANT: All of the URLs will provide the most recent stable version of the re
 | Faroese (fo/fao)
 | https://pahkat.uit.no/main/download/speller-fao?platform=windows[URL]
 
-| Greenlandic (kl/kal)
-| https://pahkat.uit.no/main/download/speller-kal?platform=windows[URL]
-
 | Inari Sami (smn)
 | https://pahkat.uit.no/main/download/speller-smn?platform=windows[URL]
 
