@@ -27,7 +27,7 @@ jobs:
         run: |
           sudo apt-get install -y asciidoctor
           mkdir -p _site
-          asciidoctor --attribute=nofooter -o _site/index.html index.adoc
+          find . -name '*.adoc' -not -path './_site/*' -exec asciidoctor --attribute=nofooter -D _site {} +
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
